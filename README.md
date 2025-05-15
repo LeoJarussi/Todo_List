@@ -1,4 +1,4 @@
-# 📝 Minha Lista de Tarefas Super Maneira! 📝
+# 📝 Minha Lista de Tarefas! 📝
 
 E aí, galera! Cansado de esquecer o que precisa fazer? Seus problemas acabaram (ou quase! 😉) com esta **Lista de Tarefas** super intuitiva e estilosa, feita com Python e PySimpleGUI! 🚀
 
